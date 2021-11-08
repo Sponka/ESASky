@@ -1,4 +1,4 @@
 # ESASky
-<p align="center"><img src="poster.png"></p>
+<p align="center"><img src="poster.pdf"></p>
 
 
